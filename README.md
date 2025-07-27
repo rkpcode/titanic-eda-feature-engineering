@@ -33,4 +33,18 @@ titanic_dataset_eda/
 └── assets/
     └── images/                            # Optional visualizations folder
 
+## 💡 Future Scope
+
+Model Building with Logistic Regression, Random Forest, etc.
+
+Hyperparameter Tuning
+
+Cross Validation
+
+Deployment on Streamlit or Flask
+## 🤝 Let's Connect
+
+Made with ❤️ by Rahul
+
+
 
